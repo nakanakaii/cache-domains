@@ -1,0 +1,11 @@
+k.gjacky.com
+k.gjacky.com.cdn.ettdnsv.com
+k.gjacky.com.akamaized.net
+pubgmpdrcdn.intlgame.com
+pubgmpdrcdn.intlgame.com.edgesuite.net
+
+gpubgm.com
+pubgmobile.com
+*.amsoveasea.com
+*.amsoveasea.com.edgesuite.net
+dnsv1.com

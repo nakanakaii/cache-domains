@@ -131,6 +131,16 @@
             "name": "test",
             "description": "Test CDN, recommended to enable for additional diagnostics",
             "domain_files": ["test.txt"]
+        },
+		{
+            "name": "pubgmobile",
+            "description": "CDN for PUBG Mobile",
+            "domain_files": ["pubgmobile.txt"]
+        },
+		{
+            "name": "devtools",
+            "description": "CDN for devtools, used by various development tools",
+            "domain_files": ["devtools.txt"]
         }
 	]
 }
